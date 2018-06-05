@@ -1,0 +1,5 @@
+Low Fuse 	= 0xE2
+High Fuse 	= 0xD9
+Extended Fuse 	= 0xFE
+Lock Fuse 	= 0xFF
+
