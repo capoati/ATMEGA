@@ -1,19 +1,30 @@
 /*****************************************************************
 
-	MCU: 					ATmega8
-	Autore: 				Emanuele Aimone
-	Ultimo Aggiornamento: 	19/11/2015
+	MCU: 				ATmega8
+	Autore: 			Emanuele Aimone
+	Ultimo Aggiornamento: 		19/11/2015
 	
 	Descrizione:			Fa lampeggiare un led collegato 
-							al PIN23 (PC0) attraverso il Timer0
+					al PIN23 (PC0) attraverso il Timer0
 	
-	Licenza:				Questo firmware viene fornito in modo 
-							gratuito e senza alcuna garanzia
-							Il firmware può essere modificato e 
-							copiato senza limiti.
-							L'autore non si assume nessuna 
-							responsabilità per danni portati o
-							causati da questo firmware.
+	
+	License:			This firmware is provided in a way
+					free and without any warranty
+					The firmware can be modified and
+					unlimited copied.
+					The author does not assume any
+					liability for damage brought or
+					caused by this firmware.
+
+
+	Licenza:			Questo firmware viene fornito in modo 
+					gratuito e senza alcuna garanzia
+					Il firmware può essere modificato e 
+					copiato senza limiti.
+					L'autore non si assume nessuna 
+					responsabilità per danni portati o
+					causati da questo firmware.
+
 							
 *****************************************************************/
 
