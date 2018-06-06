@@ -1,22 +1,32 @@
 /*****************************************************************
 
-	MCU: 					ATmega8
-	Autore: 				Emanuele Aimone
-	Ultimo Aggiornamento: 	15/01/2016
+	MCU: 				ATmega8
+	Autore: 			Emanuele Aimone
+	Ultimo Aggiornamento: 		15/01/2016
 	
 	Descrizione:			Con l'ausilio di un convertitore USB-Seriale
-							è possibile stabilire una comunicazione
-							seriale tra MCU e PC.
-							Un led verrà fatto lampeggiare per ogni dato
-							ricevuto o trasmesso.
+					è possibile stabilire una comunicazione
+					seriale tra MCU e PC.
+					Un led verrà fatto lampeggiare per ogni dato
+					ricevuto o trasmesso.
 	
-	Licenza:				Questo firmware viene fornito in modo 
-							gratuito e senza alcuna garanzia
-							Il firmware può essere modificato e 
-							copiato senza limiti.
-							L'autore non si assume nessuna 
-							responsabilità per danni portati o
-							causati da questo firmware.
+
+	License:			This firmware is provided in a way
+					free and without any warranty
+					The firmware can be modified and
+					unlimited copied.
+					The author does not assume any
+					liability for damage brought or
+					caused by this firmware.
+
+
+	Licenza:			Questo firmware viene fornito in modo 
+					gratuito e senza alcuna garanzia
+					Il firmware può essere modificato e 
+					copiato senza limiti.
+					L'autore non si assume nessuna 
+					responsabilità per danni portati o
+					causati da questo firmware.
 							
 *****************************************************************/
 
